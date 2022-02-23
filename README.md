@@ -2,7 +2,6 @@
 
 ```php
  <?php echo 'Hello world'?>
-
 ```
 ```js
  const [state,setState] = useState('coding...');
