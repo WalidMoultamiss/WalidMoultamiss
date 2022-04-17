@@ -1,8 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/WalidMoultamiss)
 
-```php
- <?php echo 'Hello world'?>
-```
+
 ```js
  const [state,setState] = useState('coding...');
 ```
@@ -14,6 +12,10 @@
       alert('ready for doing business');
       return;
     }
+```
+
+```php
+ <?php echo 'Hello world'?>
 ```
 
 ![full-stack-development](https://user-images.githubusercontent.com/77829205/124051039-9ab94900-da13-11eb-9654-1d79bf3cfe37.gif)
