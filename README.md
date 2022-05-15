@@ -7,8 +7,6 @@ import (
 )
 ```
 
-
-
 ```js
  const [state,setState] = useState('coding...');
 ```
