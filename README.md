@@ -12,6 +12,7 @@ import (
 ```
 
 
+
 ```js
  import { Platform } from 'react-native';
  
