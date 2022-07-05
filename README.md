@@ -13,8 +13,6 @@ import (
  const [state,setState] = useState('coding...');
 ```
 
-
-
 ```js
  import { Platform } from 'react-native';
  
